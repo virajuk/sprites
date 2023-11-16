@@ -6,3 +6,5 @@
 
 /.idea
 /venv
+/graphics
+!/graphics/.gitkeep
